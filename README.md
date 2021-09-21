@@ -11,14 +11,25 @@
 🟢 Basics of html
 
 ## Day 2 : Learned some basic HTML tags
-### 🔴HTML text fundamentals
+#### 🔴HTML text fundamentals
 * Heading tags
 * Bold, Italic text tags
 * Unordered HTML List and ordered HTML list tags
 
 
-### 🟣Image tag
+#### 🟣Image tag
 
-### 🟡Creating hyperlinks 
+#### 🟡Creating hyperlinks 
 
-### 🟢HTML Table tags
+#### 🟢HTML Table tags
+
+## Day 3 : Learned following topic⬇
+🔴 HTML form tags
+
+🟣 Revised previous HTML tags 
+
+## Day 4 : Learned following topic⬇
+####🟡 Made portfolio using HTML only
+* [Portfolio](https://github.com/Dhara3078/100Days_of_WEB_DEV/tree/main/CV%20only%20using%20HTML)
+
+
