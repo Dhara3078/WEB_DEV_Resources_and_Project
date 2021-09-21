@@ -29,7 +29,7 @@
 🟣 Revised previous HTML tags 
 
 ## Day 4 : Learned following topic⬇
-####🟡 Made portfolio using HTML only
+#### 🟡 Made portfolio using HTML only
 * [Portfolio](https://github.com/Dhara3078/100Days_of_WEB_DEV/tree/main/CV%20only%20using%20HTML)
 
 
