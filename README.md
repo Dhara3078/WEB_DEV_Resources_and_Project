@@ -56,3 +56,22 @@
 
 🔵 Learned how to do Debugging using Crome developer tool
 
+## Day 7 : Learned more on CSS
+🔴 [CSS selecters](https://www.w3schools.com/css/css_selectors.asp)
+
+🟣 [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+🟡 Learned about [favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) and How to [make](https://www.favicon-generator.org/) and add them on your website.
+
+🟢 [HTML div tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
+
+## Day 8 : Learned more on CSS
+#### 🔴 CSS pseudo-class
+* [:hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
+
+🟣 [CSS Box model](https://markusvogl.com/web1/interactive_box_model/css_box_demo.html)
+
+<!-- 🟡 Learned about [favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) and How to [make](https://www.favicon-generator.org/) and add them on your website.
+
+🟢 [HTML div tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div) -->
+
