@@ -79,7 +79,7 @@
 * inline
 * inline-block
 * none
-* 
+
 🟠[CSS Property Visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/visibility)
 
 🔵[CSS Default Positioning Rules](https://github.com/Dhara3078/100Days_of_WEB_DEV/blob/main/CSS%20Default%20Positioning%20Rules.md)
