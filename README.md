@@ -65,13 +65,25 @@
 
 🟢 [HTML div tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
 
-## Day 8 : Learned more on CSS
 #### 🔴 CSS pseudo-class
 * [:hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
 
 🟣 [CSS Box model](https://markusvogl.com/web1/interactive_box_model/css_box_demo.html)
 
-<!-- 🟡 Learned about [favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) and How to [make](https://www.favicon-generator.org/) and add them on your website.
+## Day 8 : Learned more on CSS
 
-🟢 [HTML div tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div) -->
+🟡 [HTML Block and Inline Elements](https://www.w3schools.com/html/html_blocks.asp)
+
+#### 🟢 [CSS Display Property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+* block
+* inline
+* inline-block
+* none
+🟠[CSS Property Visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/visibility)
+
+🔵[CSS Default Positioning Rules](https://github.com/Dhara3078/100Days_of_WEB_DEV/blob/main/CSS%20Default%20Positioning%20Rules.md)
+
+🔴[CSS Positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+
+
 
