@@ -111,3 +111,16 @@
 🟡 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
 🟢 [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
+
+## Day 11-12 : Revised previous css properties
+
+<!-- ## Day 13 : Started Java-Script
+
+🔴 [float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+
+🟣 [clear](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
+
+🟡 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
+🟢 [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
+ -->
