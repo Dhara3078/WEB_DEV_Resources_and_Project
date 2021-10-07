@@ -86,5 +86,28 @@
 
 🔴[CSS Positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
+## Day 9 : Learned more on CSS
 
+🟡 [Text-align Property](https://www.w3schools.com/cssref/pr_text_text-align.ASP)
 
+#### 🟢 [Font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+* [Typography in CSS](https://www.washington.edu/accesscomputing/webd2/student/unit3/module3/lesson2.html)
+* [Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+* [Google fonts](https://fonts.google.com/) and [how to embed them into the webpage](https://support.google.com/webdesigner/answer/6163074?hl=en)
+
+#### 🟠 [Font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
+
+* [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight) 
+* [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+* [font-stretch](https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch)
+* [font-style](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
+* [font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+
+## Day 10 : Learned more on CSS
+🔴 [float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+
+🟣 [clear](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
+
+🟡 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
+🟢 [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
