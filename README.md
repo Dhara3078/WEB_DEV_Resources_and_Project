@@ -114,13 +114,31 @@
 
 ## Day 11-12 : Revised previous css properties
 
-<!-- ## Day 13 : Started Java-Script
+## Day 13 : Started Java-Script
 
-🔴 [float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+🔴 [alert()](https://www.w3schools.com/jsref/met_win_alert.asp)
 
-🟣 [clear](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
+#### 🟣 [Variables](https://www.w3schools.com/js/js_variables.asp)
+* [How to name variables](https://github.com/Dhara3078/100Days_of_WEB_DEV/blob/main/Rules_for_naming_variables_in_JS.md) 
+* [JavaScript Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
 
-🟡 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+🟢 [prompt()](https://www.w3schools.com/jsref/met_win_prompt.asp)
 
-🟢 [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
- -->
+## Day 14 : Learned following topics on JavaScript
+
+#### 🟠[String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+* [Learned diffrent String Methods](https://www.w3schools.com/js/js_string_methods.asp)
+
+🟣 [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+
+🟡 [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
+## Day 15 : Learned following topics on JavaScript
+🔴 [Random number generator (Math.random())](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+
+🟣 [if...else condition](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+
+🟢 [Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
+
+
+
