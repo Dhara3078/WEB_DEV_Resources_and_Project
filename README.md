@@ -140,5 +140,14 @@
 
 🟢 [Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
 
+## Day 16 : Learned following topics on JavaScript
+#### 🔴 [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* Length function to find lenght of array
+* [push()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push) function to push an element to the array
+* [pop()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop) function to remove an element from end 
+
+🟣 [while loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+
+🟢 [for loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 
 
