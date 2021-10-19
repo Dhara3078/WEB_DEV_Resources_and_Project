@@ -140,6 +140,7 @@
 
 🟢 [Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
 
+
 ## Day 16 : Learned following topics on JavaScript
 #### 🔴 [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * Length function to find lenght of array
@@ -148,6 +149,49 @@
 
 🟣 [while loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 
-🟢 [for loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+## Day 17 : Learned following topics on JavaScript DOM
+#### 🟠[Finding HTML Elements](https://www.w3schools.com/js/js_htmldom_elements.asp)
+* Finding HTML Element by Id
+* Finding HTML Elements by Tag Name
+* Finding HTML Elements by Class Name
+* Finding HTML Elements by CSS Selectors
+* Finding HTML Elements by HTML Object Collections
+
+#### 🟡 [Changing HTML Content](https://www.w3schools.com/js/js_htmldom_html.asp)
+* Changing the Value of an Attribute
+* Dynamic HTML content
+
+# Day 18 : Learned more on JavaScript DOM
+🟢 [addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+
+🔴 [Event reference)](https://developer.mozilla.org/en-US/docs/Web/Events#specifications)
+
+🟣 [JavaScript Object Constructors](https://www.w3schools.com/js/js_object_constructors.asp)
+
+# Day 19 : Learned following topics on JQuery
+
+🟠[Selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
+
+🔵[jQuery - css() Method](https://www.w3schools.com/jquery/jquery_css.asp)
+
+#### 🔴 Add or remove class using JQuery
+* [jQuery addClass()](https://www.w3schools.com/jquery/html_addclass.asp)
+* [jQuery removeClass()](https://www.w3schools.com/jquery/html_removeclass.asp)
+
+🟣 [Set Content and Attributes](https://www.w3schools.com/jquery/jquery_dom_set.asp)
+
+🟡 [jQuery Event Methods](https://www.w3schools.com/jquery/jquery_ref_events.asp)
+
+#### 🟢 Add and remove elements
+* [jQuery - Add Elements](https://www.w3schools.com/jquery/jquery_dom_add.asp)
+* [jQuery - Remove Elements](https://www.w3schools.com/jquery/jquery_dom_remove.asp)
+
+#### 🔵 jQuery effects
+* [Hide and Show](https://www.w3schools.com/jquery/jquery_hide_show.asp)
+* [Fading](https://www.w3schools.com/jquery/jquery_fade.asp)
+* [Sliding](https://www.w3schools.com/jquery/jquery_slide.asp)
+* [Animation](https://www.w3schools.com/jquery/jquery_animate.asp)
+
+
 
 
