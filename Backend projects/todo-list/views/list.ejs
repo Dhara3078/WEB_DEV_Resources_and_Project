@@ -1,0 +1,43 @@
+<%- include("header") -%>
+    <!-- '<% %>' is a 'scriplet' tag which is used for control flow script 
+    Note: it works line by line for each new line you need to add scriplet tag for code which is not html -->
+
+    <!-- <% if(ListTitle === 'weekend'){ %>
+        <h1>Yay today is <%= ListTitle %> </h1>
+    <% }else{ %>
+        <h1>Boo! toady is <%= ListTitle %>. You need to work hard. </h1>
+    <% } %> -->
+
+     <!-- here starts the code for todo list -->
+
+<div class="box" id="heading">
+    <h1> <%= ListTitle %> </h1>
+</div>
+
+<div class="box">
+    <% for(var i = 0; i<taskList.length; i++){ %>
+        <form action="/delete" method="post">
+            <div class="item">
+                <input type="checkbox" name="checkbox" value="<%=taskList[i]._id%>" onChange="this.form.submit()">
+                <p> <%= taskList[i].name %> </p>
+            </div>
+            <input type="hidden" name="listName" value="<%=ListTitle%>"></input>
+        </form>
+    <% } %>
+
+    <form class="item" action="/" method="post">
+        <input type="text" name="newTask" placeholder="New Task" autocomplete="off">
+        <button type="submit" name="list" value=<%=ListTitle%> >+</button>
+    </form>
+
+
+    <form action="/customListName" method="post">
+        <input name="customListName" type="text"  placeholder="New List Name" autocomplete="off">
+        <button class="customListBtn" value=<%=ListTitle%> type="submit">New List</button>
+    </form>
+</div>
+       
+<%- include("footer") -%>   
+
+    
+
